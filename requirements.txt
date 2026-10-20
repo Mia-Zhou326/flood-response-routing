@@ -1,0 +1,8 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.11
+networkx>=3.0
+matplotlib>=3.7
+jupyterlab>=4.0
+# Optional: pip install gurobipy (requires a suitable Gurobi license)
+pytest>=7.4

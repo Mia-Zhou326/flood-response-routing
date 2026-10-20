@@ -1,0 +1,26 @@
+node_id,x_m,y_m,label,kind,is_required
+DEPOT,0,880,Emergency operations hub,hub,1
+J01,220,880,"Junction 0,1",junction,0
+J02,440,880,"Junction 0,2",junction,0
+CLINIC,660,880,Mobile health clinic,service,1
+J04,880,880,"Junction 0,4",junction,0
+J10,0,660,"Junction 1,0",junction,0
+J11,220,660,"Junction 1,1",junction,0
+J12,440,660,"Junction 1,2",junction,0
+POWER,660,660,Portable power depot,service,1
+J14,880,660,"Junction 1,4",junction,0
+J20,0,440,"Junction 2,0",junction,0
+J21,220,440,"Junction 2,1",junction,0
+PANTRY,440,440,Community food pantry,service,1
+J23,660,440,"Junction 2,3",junction,0
+J24,880,440,"Junction 2,4",junction,0
+J30,0,220,"Junction 3,0",junction,0
+J31,220,220,"Junction 3,1",junction,0
+J32,440,220,"Junction 3,2",junction,0
+J33,660,220,"Junction 3,3",junction,0
+SHELTER,880,220,Temporary shelter,service,1
+WATER,0,0,Drinking water station,service,1
+J41,220,0,"Junction 4,1",junction,0
+J42,440,0,"Junction 4,2",junction,0
+J43,660,0,"Junction 4,3",junction,0
+J44,880,0,"Junction 4,4",junction,0

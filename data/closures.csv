@@ -1,0 +1,6 @@
+scenario,street_id,reason
+flash_flood,R04,standing water
+flash_flood,R17,culvert overflow
+flash_flood,R30,bridge inspection
+localized_outage,R11,debris
+localized_outage,R22,debris

@@ -1,0 +1,6 @@
+scenario,risk_weight,distance_m,risk_exposure_m,runtime_s,backend,route
+normal,0.0,3702.0,1811.56,0.033,scipy,DEPOT → J10 → J20 → J30 → WATER → J41 → J42 → J32 → PANTRY → J33 → SHELTER → J24 → POWER → CLINIC → J02 → J01 → DEPOT
+normal,0.5,3831.0,1404.42,0.05,scipy,DEPOT → J01 → J02 → CLINIC → POWER → J23 → PANTRY → J33 → SHELTER → J44 → J43 → J42 → J41 → WATER → J30 → J20 → J10 → DEPOT
+flash_flood,0.0,4013.0,1800.4,0.099,scipy,DEPOT → J01 → J12 → J02 → CLINIC → POWER → J24 → SHELTER → J33 → PANTRY → J32 → J42 → J41 → WATER → J30 → J20 → J10 → DEPOT
+flash_flood,0.5,4142.0,1393.26,0.075,scipy,DEPOT → J10 → J20 → J30 → WATER → J41 → J42 → J43 → J44 → SHELTER → J33 → PANTRY → J23 → POWER → CLINIC → J02 → J12 → J01 → DEPOT
+localized_outage,0.5,3831.0,1404.42,0.053,scipy,DEPOT → J01 → J02 → CLINIC → POWER → J23 → PANTRY → J33 → SHELTER → J44 → J43 → J42 → J41 → WATER → J30 → J20 → J10 → DEPOT
